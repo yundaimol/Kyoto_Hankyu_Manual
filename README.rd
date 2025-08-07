@@ -35,3 +35,79 @@ sh scripts/upload/upload_with_docker.sh
 # Bash / Ubuntu など
 bash scripts/upload/upload_with_docker.sh
 ```
+
+### miseを使う方法
+
+```bash
+# mise -v
+mise run setup
+mise run upload
+```
+
+## セットアップ方法
+
+### Node.js のインストール
+
+ご使用の開発環境に Node.js をインストールしてください（バージョン 14以降推奨）
+
+<https://nodejs.org/ja/download/>
+
+### 依存関係のダウンロード
+
+サイトのビルドに必要な依存関係をインストールします
+
+```bash
+yarn install
+```
+
+### データを変換
+
+`document/data/*.yml` ファイル内のデータを `src/assets/data/*.json` に変換します
+
+```bash
+yarn run doc
+```
+
+### 開発用サーバーの起動
+
+<http://localhost:3000/> でサーバーが起動します
+
+```bash
+yarn run dev
+```
+
+## サイトのビルド方法
+
+vue ファイルたちを js と html ファイルに変換します
+サイトを更新する際に必要なコマンドです
+
+### 静的ファイルとして吐き出し
+
+```bash
+yarn run build
+```
+
+`dist` ディレクトリ内にサーバーで配置する用の静的ファイルが作成されます
+
+## 作成者
+
+[kazuki-komori](https://github.com/kazuki-komori)
+
+## URL変更対応
+
+学部ホームページの都合でURLが <https://stat.cis.doshisha.ac.jp/> に変更されました．
+
+### サーバ上の配置場所
+
+`/lab/` に一式配置すればOK
+
+rootディレクトリからのリダイレクトのための設定ファイルは`root_htaccess/.htaccess`にある．
+これをサーバ上のrootディレクトリに配置すればOK
+
+## 最終更新
+
+2024.04.01
+
+更新に関するメモ [how2update.md](./md/how2update.md) を更新
+
+```
