@@ -6,7 +6,7 @@
   
 2. ベースの進め方
    - この動画に倣って進めてください．(独自の教え方は基本禁止，**もしやりたいことがあれば風間さん，伊藤さんに相談すること**）
-   - ![動画](https://www.youtube.com/watch?v=O_VURbUun8o&t=48s)
+   - [動画](https://www.youtube.com/watch?v=O_VURbUun8o&t=48s)
   
 3. 癖について
    - お客さんによっては癖が出てくる人がいます
