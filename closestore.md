@@ -51,7 +51,7 @@
         
 　　　![layout1](./image/benti_1.jpg)
    
-      - ベンチは写真のように片づける
+   - ベンチは写真のように片づける
         
    ![benti2](./image/benti_3.jpg)
       
