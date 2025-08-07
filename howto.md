@@ -48,37 +48,36 @@
     
           ![good3](./image/good3.jpg)
 
-    3.2 矢が上下に飛ぶ場合
+3.2 矢が上下に飛ぶ場合
    
-   　　3.2.1 左手親指が弓に近い（矢に擦っている）→ 左手親指を弓から離す
+3.2.1 左手親指が弓に近い（矢に擦っている）→ 左手親指を弓から離す
    
-          -  before
+ -  before
      
-   　　　　　   ![out4](./image/bad4.jpg)
-   
-            - after
-   
-    ![good4](./image/good4.jpg)
-   
-       3.2.2 右手が高いor低い　→ 右手の位置を調整する
-   
-          -  before
-   
-   　　　　　![out5](./image/bad5.jpg)
-   
-          - after
-   
-     ![good5](./image/good5.jpg)
+![out4](./image/bad4.jpg)
 
-      3.2.3 左手の狙いが高いor低い　→ 左手の狙いの位置を調整する
+ - after
+
+ ![good4](./image/good4.jpg)
    
-         -  before
+3.2.2 右手が高いor低い　→ 右手の位置を調整する
    
-   　　　　　![out6](./image/bad6.jpg)
+ -  before
    
-          - after
+![out5](./image/bad5.jpg)
    
-      ![good6](./image/good6.jpg)
+- after
+   
+![good5](./image/good5.jpg)
+
+3.2.3 左手の狙いが高いor低い　→ 左手の狙いの位置を調整する
+   
+-  before
+   
+![out6](./image/bad6.jpg)
+   
+- after
+![good6](./image/good6.jpg)
 
    
 
