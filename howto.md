@@ -14,62 +14,62 @@
      
    - 矢が飛ぶ場所やお客さんのフォームを見て適宜修正してください
   
-      3.1 矢が右に飛ぶ場合
+   3.1 矢が右に飛ぶ場合
      
-         3.1.1.狙いが右側
+   3.1.1.狙いが右側
      
-     　　 - 顔が右側を向いている，狙う場所が右寄り→ 顔を戻す，狙いを左側にする（弓の右側に的が来るようにする）
+   - 顔が右側を向いている，狙う場所が右寄り→ 顔を戻す，狙いを左側にする（弓の右側に的が来るようにする）
   
-     　　　-  before
+     -  before
      
-     　　　![out1](./image/bad1.jpg)
+     ![out1](./image/bad1.jpg)
   
-     　　　- after
-           ![good1](./image/good1.jpg)
+     - after
+     ![good1](./image/good1.jpg)
 
-         - 左腕が右側を向いている→右肩から左手先までまっすぐになるようにする
+   　- 左腕が右側を向いている→右肩から左手先までまっすぐになるようにする
 
-        -  before
+   　 -  before
      
-           ![out2](./image/bad2.jpg)
+   　　![out2](./image/bad2.jpg)
   
-        - after
+   　　- after
     
-          ![good2](./image/good2.jpg)
+   　　![good2](./image/good2.jpg)
 
-         - 右手が顔に近い　→ 右手を顔から離す
+   　 - 右手が顔に近い　→ 右手を顔から離す
     
-         - before
+   　　- before
     
-     　　　![out3](./image/bad3.jpg)         
+   　　![out3](./image/bad3.jpg)         
     
-          - after
+   　　- after
     
      　　　![good3](./image/good3.jpg)
 
-      3.2 矢が上下に飛ぶ場合
+   3.2 矢が上下に飛ぶ場合
    
-         3.2.1 左手親指が弓に近い（矢に擦っている）→ 左手親指を弓から離す
+   3.2.1 左手親指が弓に近い（矢に擦っている）→ 左手親指を弓から離す
    
-          -  before
+      -  before
      
-   　　　   ![out4](./image/bad4.jpg)
+   　　 ![out4](./image/bad4.jpg)
 
-          - after
+   　　- after
    
-   　　　　![good4](./image/good4.jpg)
+   　　　![good4](./image/good4.jpg)
    
-         3.2.2 右手が高いor低い　→ 右手の位置を調整する
+   3.2.2 右手が高いor低い　→ 右手の位置を調整する
    
-          -  before
+       -  before
 
    　　　　![out5](./image/bad5.jpg)
 
-         　- after
+      　- after
    
-   　　　　　![good5](./image/good5.jpg)
+   　　　　![good5](./image/good5.jpg)
 
-            3.2.3 左手の狙いが高いor低い　→ 左手の狙いの位置を調整する
+   3.2.3 左手の狙いが高いor低い　→ 左手の狙いの位置を調整する
    
          -  before
    
