@@ -25,6 +25,7 @@
      ![out1](./image/bad1.jpg)
   
      - after
+       
      ![good1](./image/good1.jpg)
 
 ---
@@ -90,7 +91,7 @@
    
          - after
 
-      　　![good6](./image/good6.jpg)
+　　　![good6](./image/good6.jpg)
    
 
    
