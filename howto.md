@@ -27,6 +27,8 @@
      - after
      ![good1](./image/good1.jpg)
 
+---
+
    　- 左腕が右側を向いている→右肩から左手先までまっすぐになるようにする
 
    　 -  before
@@ -37,6 +39,8 @@
     
    　　![good2](./image/good2.jpg)
 
+---
+
    　 - 右手が顔に近い　→ 右手を顔から離す
     
    　　- before
@@ -45,7 +49,9 @@
     
    　　- after
     
-     　　　![good3](./image/good3.jpg)
+![good3](./image/good3.jpg)
+
+---
 
    3.2 矢が上下に飛ぶ場合
    
@@ -58,7 +64,8 @@
    　　- after
    
    　　　![good4](./image/good4.jpg)
-   
+
+---
    3.2.2 右手が高いor低い　→ 右手の位置を調整する
    
    
@@ -70,6 +77,8 @@
       　- after
    
    　　　　![good5](./image/good5.jpg)
+
+---
 
    3.2.3 左手の狙いが高いor低い　→ 左手の狙いの位置を調整する
    
