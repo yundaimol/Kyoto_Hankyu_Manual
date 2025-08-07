@@ -61,9 +61,11 @@
    
    3.2.2 右手が高いor低い　→ 右手の位置を調整する
    
+   
        -  before
 
    　　　　![out5](./image/bad5.jpg)
+   
 
       　- after
    
@@ -71,13 +73,16 @@
 
    3.2.3 左手の狙いが高いor低い　→ 左手の狙いの位置を調整する
    
+   
          -  before
    
    　　　　![out6](./image/bad6.jpg)
    
+   
          - after
 
       　　![good6](./image/good6.jpg)
+   
 
    
 
