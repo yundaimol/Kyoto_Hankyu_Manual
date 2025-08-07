@@ -3,21 +3,21 @@
    
    1.1. 出勤時，エレベータ前にあるカードとレジ金ロッカーの鍵を入手
    
-   ![キーの場所](./images/key_1.png)
+   ![キーの場所](./images/key_1.jpg)
    
    - ダイヤルは**1,2,3,4**に設定する．
      
-   ![キーの開け方](./images/key_2.png)
+   ![キーの開け方](./images/key_2.jpg)
    
-   ![箱の開け方](./images/key_3.png)
+   ![箱の開け方](./images/key_3.jpg)
    　
-   ![外し方](./images/key_4.png)
+   ![外し方](./images/key_4.jpg)
    
-   ![鍵を入手](./images/key_5.png)　　
+   ![鍵を入手](./images/key_5.jpg)　　
    
    1.2. エレベーター右側のドアを開け，アルソックの機械にカードをかざす
    
-   ![アルソック](./images/alsock.png)
+   ![アルソック](./images/alsock.jpg)
    
    - これをしないとエレベーターが2階に行かない
    
@@ -35,7 +35,7 @@
 
    - 該当のロッカー（レジ金ロッカーの鍵を使う）
     
-   　![ロッカーの場所](./images/locker.png)
+   　![ロッカーの場所](./images/locker.jpg)
     
    2.3. タイムカードを切る
    
@@ -49,11 +49,11 @@
 
    - エレベーター右側の通路から写真の該当の箇所の電源をONにする．
    
-   　![電気の場所_1](./images/here_1.png)
+   　![電気の場所_1](./images/here_1.jpg)
    
-     ![電気の場所_2](./images/here_2.png)
+     ![電気の場所_2](./images/here_2.jpg)
    
-    ![つける場所](./images/here_3.png)
+    ![つける場所](./images/here_3.jpg)
 
    - テナント（お店）を鍵を使って開ける
    
@@ -61,34 +61,34 @@
 
    - タブレットのAirレジ（アプリ）を作動
    
-       ![Airreg_1](./images/airreg_1png)
+       ![Airreg_1](./images/airreg_1.jpg)
    
    - ホームレジ中心の**レジ点検・清算**を押す
    
-       ![Airreg_2](./images/airreg_2png)
+       ![Airreg_2](./images/airreg_2.jpg)
    
    - 上から三番目の**レジ点検・清算**を押す
    
-       ![Airreg_3](./images/airreg_3png)
+       ![Airreg_3](./images/airreg_3.jpg)
    
    - 水色の**点検**を押す
    
-       ![Airreg_4](./images/airreg_4png)
+       ![Airreg_4](./images/airreg_4.jpg)
       
    - 金種別に枚数を記録，過不足０であれば右下の**点検**を押す（問題があれば，風間さん，伊藤さんに相談する）
       
-      ![Airreg_5](./images/airreg_5png)
+      ![Airreg_5](./images/airreg_5.jpg)
       
       
    3.3　中の準備
 
    - 写真のレイアウトのようになるようにお店を開ける
    
-      ![店内のレイアウト](./images/layout_inside.png)
+      ![店内のレイアウト](./images/layout_inside.jpg)
    
    - 安土側の電気をつける！
    
-      ![安土電気](./images/ele1.png)
+      ![安土電気](./images/ele1.jpg)
    
    3.4 外と中の準備
 
